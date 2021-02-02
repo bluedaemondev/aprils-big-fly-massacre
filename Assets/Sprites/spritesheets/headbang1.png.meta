@@ -1,0 +1,479 @@
+fileFormatVersion: 2
+guid: f9d0410478d641949a4074ee5f7d4f87
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6302176727659004886
+    second: headbang1_0
+  - first:
+      213: 6118740697211529522
+    second: headbang1_1
+  - first:
+      213: 2167003034947221496
+    second: headbang1_2
+  - first:
+      213: -5735662739130524415
+    second: headbang1_3
+  - first:
+      213: -6497515393109363665
+    second: headbang1_4
+  - first:
+      213: 5460728400152835748
+    second: headbang1_5
+  - first:
+      213: 7757206250622066034
+    second: headbang1_6
+  - first:
+      213: 8214454452378128728
+    second: headbang1_7
+  - first:
+      213: -4538071762623105569
+    second: headbang1_8
+  - first:
+      213: -4980605219351108173
+    second: headbang1_9
+  - first:
+      213: -3394746875472622591
+    second: headbang1_10
+  - first:
+      213: 2381551912718825155
+    second: headbang1_11
+  - first:
+      213: -9167954934582833393
+    second: headbang1_12
+  - first:
+      213: -7191775669803280952
+    second: headbang1_0
+  - first:
+      213: -9045855423147041134
+    second: headbang1_1
+  - first:
+      213: 5852144933121051271
+    second: headbang1_2
+  - first:
+      213: -157464149575588957
+    second: headbang1_3
+  - first:
+      213: -2797966541461192802
+    second: headbang1_4
+  - first:
+      213: -4620880536791645388
+    second: headbang1_5
+  - first:
+      213: -2853794143782044556
+    second: headbang1_6
+  - first:
+      213: 1978406983444625018
+    second: headbang1_7
+  - first:
+      213: -2916542266312061483
+    second: headbang1_8
+  - first:
+      213: -4956446693891867270
+    second: headbang1_9
+  - first:
+      213: -124941463632892564
+    second: headbang1_10
+  - first:
+      213: 8243524464875338752
+    second: headbang1_11
+  - first:
+      213: -1314286945755364114
+    second: headbang1_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: headbang1_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1089
+        width: 565
+        height: 957
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c51419c12ea13c90800000000000000
+      internalID: -7191775669803280952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: headbang1_1
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1085
+        width: 533
+        height: 961
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e97cd6b6aa67280800000000000000
+      internalID: -9045855423147041134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: headbang1_2
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 1073
+        width: 525
+        height: 973
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a48c88fcef63150800000000000000
+      internalID: 5852144933121051271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: headbang1_3
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 1069
+        width: 536
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a320b3b03390ddf0800000000000000
+      internalID: -157464149575588957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: headbang1_4
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 1077
+        width: 577
+        height: 969
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ff6ca3140ab29d0800000000000000
+      internalID: -2797966541461192802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: headbang1_5
+      rect:
+        serializedVersion: 2
+        x: 2758
+        y: 1092
+        width: 593
+        height: 954
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433840f52a55fdfb0800000000000000
+      internalID: -4620880536791645388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: headbang1_6
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 1069
+        width: 580
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cf7c5a8594568d0800000000000000
+      internalID: -2853794143782044556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: headbang1_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 88
+        width: 581
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a767e5d5ba6b47b10800000000000000
+      internalID: 1978406983444625018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: headbang1_8
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 117
+        width: 603
+        height: 948
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd8e04e24c5687d0800000000000000
+      internalID: -2916542266312061483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: headbang1_9
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 89
+        width: 602
+        height: 976
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d7a660ef9273bb0800000000000000
+      internalID: -4956446693891867270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: headbang1_10
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 79
+        width: 592
+        height: 986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6da17a966e144ef0800000000000000
+      internalID: -124941463632892564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: headbang1_11
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 102
+        width: 575
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cf22223d1e66270800000000000000
+      internalID: 8243524464875338752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: headbang1_12
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 128
+        width: 558
+        height: 937
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee481597cf6b2cde0800000000000000
+      internalID: -1314286945755364114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

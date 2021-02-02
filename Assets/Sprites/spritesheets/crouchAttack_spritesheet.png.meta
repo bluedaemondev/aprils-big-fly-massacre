@@ -1,0 +1,704 @@
+fileFormatVersion: 2
+guid: bd0752029917ae742b4b0e1c97d6bdd5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5243899861168446563
+    second: crouchAttack_spritesheet_0
+  - first:
+      213: -4372647845993321177
+    second: crouchAttack_spritesheet_1
+  - first:
+      213: 8389307860322986647
+    second: crouchAttack_spritesheet_2
+  - first:
+      213: 2978601122174390370
+    second: crouchAttack_spritesheet_3
+  - first:
+      213: 1240285609303641760
+    second: crouchAttack_spritesheet_4
+  - first:
+      213: -7483703089794731565
+    second: crouchAttack_spritesheet_5
+  - first:
+      213: -1626711210591807633
+    second: crouchAttack_spritesheet_6
+  - first:
+      213: -1138754786836173738
+    second: crouchAttack_spritesheet_7
+  - first:
+      213: 683724434369282212
+    second: crouchAttack_spritesheet_8
+  - first:
+      213: 351323306306986065
+    second: crouchAttack_spritesheet_9
+  - first:
+      213: 473350659703833030
+    second: crouchAttack_spritesheet_10
+  - first:
+      213: -5407381721108174775
+    second: crouchAttack_spritesheet_11
+  - first:
+      213: 6505413167345309297
+    second: crouchAttack_spritesheet_12
+  - first:
+      213: 7285761927485651088
+    second: crouchAttack_spritesheet_13
+  - first:
+      213: -1127788357516654125
+    second: crouchAttack_spritesheet_14
+  - first:
+      213: -750821149357820691
+    second: crouchAttack_spritesheet_15
+  - first:
+      213: -868664259093235196
+    second: crouchAttack_spritesheet_16
+  - first:
+      213: -8315649469709950796
+    second: crouchAttack_spritesheet_17
+  - first:
+      213: -383004737392773719
+    second: crouchAttack_spritesheet_18
+  - first:
+      213: 1336650008226204659
+    second: crouchAttack_spritesheet_19
+  - first:
+      213: 8412737617684646556
+    second: crouchAttack_spritesheet_20
+  - first:
+      213: 6985621426066917389
+    second: crouchAttack_spritesheet_21
+  - first:
+      213: 8020756156633475278
+    second: crouchAttack_spritesheet_22
+  - first:
+      213: 7192426440858744374
+    second: crouchAttack_spritesheet_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crouchAttack_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 3162
+        width: 732
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c5aaee32316c840800000000000000
+      internalID: 5243899861168446563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouchAttack_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 3162
+        width: 1252
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72de0bb83fb3153c0800000000000000
+      internalID: -4372647845993321177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouchAttack_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 3162
+        width: 1260
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79aa1fdec0fcc6470800000000000000
+      internalID: 8389307860322986647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouchAttack_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 3938
+        y: 3170
+        width: 1248
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260d8c670fd165920800000000000000
+      internalID: 2978601122174390370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouchAttack_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 5246
+        y: 3166
+        width: 1240
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae829ab031663110800000000000000
+      internalID: 1240285609303641760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouchAttack_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 6554
+        y: 3162
+        width: 1224
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1ba40b0bb842890800000000000000
+      internalID: -7483703089794731565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouchAttack_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 2154
+        width: 680
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67978cc5c2cc69e0800000000000000
+      internalID: -1626711210591807633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouchAttack_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 2166
+        width: 1164
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65caa540e845230f0800000000000000
+      internalID: -1138754786836173738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouchAttack_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 2166
+        width: 1248
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a006d220c31d7900800000000000000
+      internalID: 683724434369282212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouchAttack_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 3958
+        y: 2162
+        width: 1204
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1506eb98fa620e400800000000000000
+      internalID: 351323306306986065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouchAttack_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 5282
+        y: 2150
+        width: 1140
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c108d5caeda19600800000000000000
+      internalID: 473350659703833030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouchAttack_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 6654
+        y: 2146
+        width: 936
+        height: 532
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948286469fe15f4b0800000000000000
+      internalID: -5407381721108174775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouchAttack_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1170
+        width: 856
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17614ccfeced74a50800000000000000
+      internalID: 6505413167345309297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouchAttack_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1368
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098f8d51fd93c1560800000000000000
+      internalID: 7285761927485651088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouchAttack_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 1168
+        width: 1260
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d90660d67a4950f0800000000000000
+      internalID: -1127788357516654125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouchAttack_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 2714
+        y: 1172
+        width: 1168
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de43da6842c8495f0800000000000000
+      internalID: -750821149357820691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouchAttack_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 3966
+        y: 1162
+        width: 1180
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a7baf6572e1f3f0800000000000000
+      internalID: -868664259093235196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouchAttack_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 5326
+        y: 1142
+        width: 872
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0e5419dd0e89c80800000000000000
+      internalID: -8315649469709950796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouchAttack_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 6762
+        y: 1170
+        width: 748
+        height: 916
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a57968783b4faaf0800000000000000
+      internalID: -383004737392773719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouchAttack_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 152
+        width: 1052
+        height: 662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb8851c91cbc8210800000000000000
+      internalID: 1336650008226204659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouchAttack_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 170
+        width: 1260
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ac8aa6a4c00c470800000000000000
+      internalID: 8412737617684646556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouchAttack_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 182
+        width: 1256
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d088314fca9e1f060800000000000000
+      internalID: 6985621426066917389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouchAttack_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 3974
+        y: 158
+        width: 1160
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec86a2a8a337f4f60800000000000000
+      internalID: 8020756156633475278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crouchAttack_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 5386
+        y: 150
+        width: 832
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6363388adb1a0d360800000000000000
+      internalID: 7192426440858744374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
